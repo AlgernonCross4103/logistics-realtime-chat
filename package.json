@@ -1,0 +1,1 @@
+{"name":"logistics-realtime-chat","private":true,"type":"module","scripts":{"start":"node --experimental-strip-types src/logistics_chat.ts","test":"node --experimental-strip-types test/logistics_chat.test.ts"},"dependencies":{"zod":"^3.23.8"}}
